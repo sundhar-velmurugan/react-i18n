@@ -1,0 +1,13 @@
+{
+  "app": {
+    "hello": {
+      "friend": "你好朋友！",
+      "stranger": "你好，陌生人。"
+    },
+    "quiz": {
+      "question": "选一个：",
+      "choice": { "apple": "苹果", "banana": "香蕉" },
+      "result": "您选择了\"{{choice}}\""
+    }
+  }
+}

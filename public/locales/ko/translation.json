@@ -1,0 +1,13 @@
+{
+  "app": {
+    "hello": {
+      "friend": "안녕 친구!",
+      "stranger": "안녕하세요 낯선 사람."
+    },
+    "quiz": {
+      "question": "다음 중 하나를 선택하십시오.",
+      "choice": { "apple": "사과", "banana": "바나나" },
+      "result": "\"{{choice}} \"를 선택하셨습니다."
+    }
+  }
+}

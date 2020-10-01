@@ -1,0 +1,13 @@
+{
+  "app": {
+    "hello": {
+      "friend": "Hello Friend!",
+      "stranger": "Hello Stranger."
+    },
+    "quiz": {
+      "question": "Choose one:",
+      "choice": { "apple": "Apple", "banana": "Banana" },
+      "result": "You have chosen \"{{choice}}\""
+    }
+  }
+}
